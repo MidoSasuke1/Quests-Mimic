@@ -1,0 +1,10 @@
+# Ignore all Python source code
+*.py
+
+# Ignore build artifacts and specs
+build/
+dist/
+*.spec
+*.json
+*.mp3
+runner.exe
