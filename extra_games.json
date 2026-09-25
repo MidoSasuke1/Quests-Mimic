@@ -1,0 +1,20 @@
+[
+  {
+    "name": "EA Sports FC 27",
+    "exe": "FC27.exe",
+    "subfolder": "",
+    "category": "Sports"
+  },
+  {
+    "name": "EA Sports FC 26",
+    "exe": "FC26.exe",
+    "subfolder": "",
+    "category": "Sports"
+  },
+  {
+    "name": "Gravebound",
+    "exe": "Gravebound.exe",
+    "subfolder": "Gravebound",
+    "category": "Early Access"
+  }
+]
